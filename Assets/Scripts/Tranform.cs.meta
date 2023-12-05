@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 86f54b16ca21fac459764d3af7cc0e44
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spawnee: {instanceID: 0}
+  - Pmaterial: {fileID: 2100000, guid: 52ae2df789de72642a8bd9ab094683b7, type: 2}
+  - Qmaterial: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
